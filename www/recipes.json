@@ -1,0 +1,22 @@
+{
+    "Balsamic tomato and herb chicken": {
+        "category": ["pasta"],
+        "simple": true,
+        "ingredients": {
+            "Meats": ["chicken breast"],
+            "Vegetables": ["italian parsely", "chives", "garlic", "plum tomatoes"], 
+            "Cheese and milk": ["mozarella cheese"], 
+            "Other": ["italian seasoning", "pasta", "balsamic vinegar"]    
+        }
+    },
+    "Seared salmon paka": {
+        "category": ["fish", "curry"],
+        "simple": true, 
+        "ingredients": {
+            "Meats": ["salmon fillets"], 
+            "Vegetables": ["onion", "thai chiles", "garlic","lime"],
+            "Cheese and milk": [], 
+            "Other": ["balsamati rice", "2 cans of coconut milk", "tomato paste","tumeric"]
+        }
+    }
+}
