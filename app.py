@@ -3,6 +3,7 @@ from pathlib import Path
 import json 
 import random 
 import itertools
+from retrieve_recipes import retrieve_from_gsheets
 
 www_dir = Path(__file__).parent / "www"
 
